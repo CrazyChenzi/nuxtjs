@@ -1,7 +1,7 @@
 {
-  "name": "market-website",
+  "name": "nuxtjs",
   "version": "1.0.0",
-  "description": "嘉穗官方网站",
+  "description": "nuxtjs ts 配套模板",
   "author": "blacklisten",
   "private": true,
   "scripts": {
